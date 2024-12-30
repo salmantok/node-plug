@@ -1,6 +1,6 @@
 {
   "name": "node-plug",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "node-plug memungkinkan Anda menambahkan atau mengganti plugin secara dinamis. Mendukung sync, callback, dan promise, sehingga fleksibel untuk berbagai kebutuhan pengembangan.",
   "main": "lib/index.js",
   "type": "module",
