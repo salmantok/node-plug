@@ -1,0 +1,29 @@
+{
+  "name": "node-plug",
+  "version": "0.0.0",
+  "description": "node-plug memungkinkan Anda menambahkan atau mengganti plugin secara dinamis. Mendukung sync, callback, dan promise, sehingga fleksibel untuk berbagai kebutuhan pengembangan.",
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "keywords": [
+    "node-plug",
+    "plugin-system",
+    "plugin-test",
+    "sync",
+    "callback",
+    "promise",
+    "test"
+  ],
+  "author": "salmantok",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmantok/node-plug.git"
+  },
+  "homepage": "https://github.com/salmantok/node-plug#readme",
+  "files": [
+    "lib/"
+  ]
+}
